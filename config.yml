@@ -49,7 +49,10 @@ params:
   homeInfoParams:
         Title: "Nozomu Kobayashi, Ph.D"
         Content: >
-            Quant 
+            Quantitative researcher with a background in Physics.
+            Welcome to my personal site where I share research notes and thoughts.
+
+
 
 
   socialIcons:
@@ -60,3 +63,14 @@ params:
 
     - name: linkedin
       url: "https://www.linkedin.com/in/nozomu-kobayashi-bb51b21a4/"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
