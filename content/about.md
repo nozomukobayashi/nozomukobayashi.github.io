@@ -5,9 +5,7 @@ url: "/about/"
 summary: "About Nozomu Kobayashi"
 ---
 
-## Profile
-
-I am a quantitative researcher with a Ph.D. in Physics. My work sits at the intersection of rigorous scientific thinking and financial markets, applying statistical and mathematical methods to understand and model complex systems.
+Quantitative research. Ph.D in Physics, University of Tokyo
 
 ---
 
@@ -15,22 +13,15 @@ I am a quantitative researcher with a Ph.D. in Physics. My work sits at the inte
 
 | Year | Description |
 |------|-------------|
-| 20XX | [Your current position] |
-| 20XX | Ph.D. in Physics, [University Name] |
-| 20XX | M.S. in Physics, [University Name] |
-| 20XX | B.S. in Physics, [University Name] |
+| 2025 | Government Pension Investment Fund|
+| 2021 | Nomura Securities|
+| 2021 | Ph.D. in Physics, Univresity of Tokyo |
+| 2018 | M.S. in Physics, Univresity of Tokyo |
+| 2016 | B.S. in Physics, Univresity of Tokyo |
 
 ---
 
-## Research
-
-### Research Interests
-
-- [Research topic 1, e.g., Statistical Physics]
-- [Research topic 2, e.g., Stochastic Processes]
-- [Research topic 3]
-
-### Publications
+## Publications
 
 For a full list of publications, please see my [Google Scholar profile](https://scholar.google.co.jp/citations?user=5gJK7uwAAAAJ).
 
@@ -38,7 +29,9 @@ For a full list of publications, please see my [Google Scholar profile](https://
 
 ## Personal
 
-[Write a few sentences about your hobbies and personal interests here.]
+- Beer lover 🍺
+- Father of one
+
 
 ---
 
